@@ -1,0 +1,12 @@
+Data Generation/2d-turb-data.jld
+Data Generation/2d-turb-data-filter-k5.jld
+Data Generation/2d-turb-data-filter-k3.jld
+Data Generation/2d-turb-data-filter-k2.jld
+Reinforcement Learning/Q-learning/Vortex Flow/Q_data.jld2
+Reinforcement Learning/Actor-Critic/Vortex Flow/AC_data.jld2
+Reinforcement Learning/Q-learning/Sink+Rotation Flow/Q_data.jld2
+Reinforcement Learning/Actor-Critic/Sink+Rotation Flow/AC_data.jld2
+Reinforcement Learning/Q-learning/Taylor-Green Flow/Q_data.jld2
+Reinforcement Learning/Actor-Critic/Taylor-Green Flow/AC_data.jld2
+Reinforcement Learning/Q-learning/2D Turbulence/Q_data_snap.jld2
+Reinforcement Learning/Actor-Critic/2D Turbulence/AC_data_snap.jld2
