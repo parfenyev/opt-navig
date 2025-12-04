@@ -1,4 +1,5 @@
 Data Generation/2d-turb-data.jld
+Data Generation/2d-turb-data-filter-k10.jld
 Data Generation/2d-turb-data-filter-k5.jld
 Data Generation/2d-turb-data-filter-k3.jld
 Data Generation/2d-turb-data-filter-k2.jld
