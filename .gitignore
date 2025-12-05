@@ -15,3 +15,4 @@ Reinforcement Learning/Q-learning/2D Turbulence/Q_data_time.jld2
 Reinforcement Learning/Actor-Critic/2D Turbulence/AC_data_time.jld2
 .DS_Store
 Incomplete Information/Actor-Critic/AC_data_snap_filter_k10.jld2
+Incomplete Information/Actor-Critic/AC_data_snap_filter_k5.jld2
